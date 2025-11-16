@@ -1,0 +1,5 @@
+{
+  "name": "React Three.js Showcase",
+  "description": "A simple and elegant showcase of a 3D spinning cube using React and Three.js, styled with Tailwind CSS. This serves as a basic template for integrating 3D graphics into a React application.",
+  "requestFramePermissions": []
+}
